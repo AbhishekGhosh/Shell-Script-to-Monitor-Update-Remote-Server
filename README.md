@@ -7,7 +7,25 @@ A Set of Shell Script to Monitor &amp; Update Remote Server from Your Mac or GNU
 1. wget or download this repo.
 2. cd inside the monitor directory.
 3. chmod +x the ssh.sh file.
+4. Type `ssh.sh` and hit the enter key.
 4. Follow the instructions.
+
+You will get this menu :
+
+````
+* Started [ Shell Script to Monitor Update Remote Server ] Program
+Github Repo: https://goo.gl/MRwIKm       Fork, Star and Send Pull Requests
+
+********  MENU ********
+
+Type [ r ] and hit the Enter key to get reporting.
+Type [ u ] and hit the Enter key to update server without reporting.
+Type [ u ] hit the Enter key, then type [ n ] to exit.
+
+********       ********
+
+What you want? (r/u)?
+````
 
 If you type [ r ] and hit the Enter key to get reporting for Ubuntu server. An example report :
 
