@@ -7,11 +7,10 @@
 # run on production server with your risk
 # for educational purpose
 clear
-echo "Coded by TheCustomizeWindows.com\n"
-echo "Github Repo: https://goo.gl/MRwIKm\n"
-echo "Fork, Star and Send Pull Requests\n"
-echo "********  MENU ********"
-echo "Type [ r ] and hit the Enter key to get reporting.\nType [ u ] and hit the Enter key to update server without reporting.\nType [ u ] hit the Enter key, then type [ n ] to exit.\n********       ********\n"
+echo "* Started [ Shell Script to Monitor Update Remote Server ] Program"
+echo "Github Repo: https://goo.gl/MRwIKm       Fork, Star and Send Pull Requests\n"
+echo "********  MENU ********\n"
+echo "Type [ r ] and hit the Enter key to get reporting.\nType [ u ] and hit the Enter key to update server without reporting.\nType [ u ] hit the Enter key, then type [ n ] to exit.\n\n********       ********\n"
 read -p "What you want? (r/u)?" START
 if [ "$START" == "r" ]; then
 echo " "
