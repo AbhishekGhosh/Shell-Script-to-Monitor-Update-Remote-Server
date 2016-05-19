@@ -2,6 +2,8 @@
 
 A Set of Shell Script to Monitor &amp; Update Remote Server from Your Mac or GNU/Linux computer.
 
+![Image of Shell Script to Monitor Update Remote Server](https://thecustomizewindows.com/wp-content/uploads/2016/05/Shell-Script-to-Monitor-Update-Remote-Server.png)
+
 # How to use
 
 1. wget or download this repo.
